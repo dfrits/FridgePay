@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- region Errors -->
+    <string name="load_list_error">Liste konnte nicht geladen werden</string>
+    <string name="buy_product_error">Produkt konnte nicht gekauft werden</string>
+    <string name="return_product_error">Produkt konnte nicht zurückgegeben werden</string>
+    <!-- endregion -->
+
+    <!-- region Allgemeines -->
+    <string name="app_name">Fridge Pay</string>
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+    <!-- endregion -->
+
+    <!-- region Infos -->
+    <string name="buy_product_success">Produkt gekauft</string>
+    <string name="pay_product_success">Erfolgreich bezahlt</string>
+    <string name="return_product_success">Produkt erfolgreich zurückgegeben</string>
+    <!-- endregion -->
+
+    <!-- region Titles, Texte, Beschreibungen -->
+    <string name="bought_products">Gekaufte Produkte</string>
+    <string name="buy_product_dialog_msg">Wollen Sie dieses Produkt kaufen?</string>
+    <string name="buy_product_dialog_title">Produkt kaufen</string>
+    <string name="name">Name</string>
+    <string name="no_product_bought">Keine Produkte gekauft</string>
+    <string name="pay">Bezahlen</string>
+    <string name="pay_products_dialog_msg">Wollen Sie die Produkte zahlen?</string>
+    <string name="pay_products_dialog_title">Produkte zahlen</string>
+    <string name="price">Preis:</string>
+    <string name="product_image_desc">Produktbild</string>
+    <string name="quantity">Anzahl:</string>
+    <string name="return_product_dialog_msg">Wollen Sie dieses Produkt zurückgeben?</string>
+    <string name="return_product_dialog_title">Produkt zurückgeben</string>
+    <string name="total">Gesamt:</string>
+    <!-- endregion -->
+
+    <!-- Neue Strings -->
+    <string name="neue_strings"> Neue Strings</string>
+    <string name="channel_notify_description">Benachrichtigt dich am letzten Werktag jeden Monats um 9 Uhr, wenn du noch Produkte bezahlen musst.</string>
+    <string name="channel_notify_name">Bezahlen</string>
+    <string name="notify_payment_msg">Du hast noch unbezahlte Produkte</string>
+</resources>
